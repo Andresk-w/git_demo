@@ -2,4 +2,10 @@ h1 {
     text-align: center;
     background-color: beige;
     color: green;
+    border-radius: 40%;
 }
+
+p {
+    text-align: center;
+}
+
